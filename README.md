@@ -1,6 +1,9 @@
 <hr><h2 align="left">SOBRE</h2>
 <p align="left">
     Atividade de criação de um site em HTML5, sobre cuidados com gatos.
+    <p align="center">
+        <img src="https://github.com/tiagoeo/Website_JK_Atividade_20_09_2023/blob/main/img/print_website.png" alt="website cuidados com gatos" height="225" width="220">
+    </p>
 </p>
 
 <hr><h2 align="left">LINGUAGENS E FERRAMENTAS</h2>
